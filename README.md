@@ -20,4 +20,4 @@
 |:일정삭제:|:DELETE:|/api/daily{dailies}|요청 param|200:정상삭제|
 
 ===============================
-![img_1.png](img_1.png)
+![img_1.png](img_1.png) 
